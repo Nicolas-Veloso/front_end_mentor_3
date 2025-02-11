@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -41,10 +43,28 @@ body {
 
 p {
     margin: 20px 0;
+    font-family: "Figtree";
 }
 
 .avatar-container .avatar-img {
     background-image: url(assets/images/image-avatar.webp);
     width: 5px;
     height: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a h2 {
+    font-family: "Figtree";
+}
+
+a :hover {
+    color: hsl(47, 88%, 63%);
+}
+
+.avatar-container {
+    font-family: "Figtree";
 }
