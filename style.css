@@ -48,8 +48,9 @@ p {
 
 .avatar-container .avatar-img {
     background-image: url(assets/images/image-avatar.webp);
-    width: 5px;
-    height: 5px;
+    width: 20px;
+    height: 20px;
+    background-color: aqua;
 }
 
 a {
@@ -63,8 +64,4 @@ a h2 {
 
 a :hover {
     color: hsl(47, 88%, 63%);
-}
-
-.avatar-container {
-    font-family: "Figtree";
 }
