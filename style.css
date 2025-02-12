@@ -46,11 +46,18 @@ p {
     font-family: "Figtree";
 }
 
+.avatar-container {
+    display: flex;
+    align-items: center;
+}
+
 .avatar-container .avatar-img {
     background-image: url(assets/images/image-avatar.webp);
-    width: 20px;
-    height: 20px;
-    background-color: aqua;
+    width: 30px;
+    height: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
