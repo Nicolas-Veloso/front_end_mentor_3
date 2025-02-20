@@ -18,11 +18,6 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Links
-
-- Solution URL: [https://github.com/Nicolas-Veloso/front_end_mentor_3](https://your-solution-url.com)
-- Live Site URL: [https://nicolas-veloso.github.io/front_end_mentor_3/](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
